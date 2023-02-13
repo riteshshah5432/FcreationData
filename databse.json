@@ -1,38 +1,79 @@
-[
-    {
-        imageSrc: '',
+{
+    Starters: [
+        {
+        imageSrc: Bottels,
         title: "Customise Water Bottle",
         content: "Premium matte finish stainless steel bottle",
         price: "₹100",
         rating: "5.0",
         reviews: "87",
         url: "#"
-    },
-    {
-        imageSrc: '',
-        title: "Customise Water Bottle",
-        content: "Premium matte finish stainless steel bottle",
-        price: "₹100",
-        rating: "5.0",
-        reviews: "87",
+        },
+        {
+        imageSrc: Box,
+        title: "Customise Box With Name",
+        content: "Material: Vegan leather and mdf size: 8 * 12 * 3'",
+        price: "₹110",
+        rating: "4.8",
+        reviews: "32",
         url: "#"
-    },
-    {
-        imageSrc: '',
-        title: "Customise Water Bottle",
-        content: "Premium matte finish stainless steel bottle",
-        price: "₹100",
-        rating: "5.0",
-        reviews: "87",
+        },
+        {
+        imageSrc: Cap,
+        title: "Customise Your Own Cap",
+        content: "Any Text/Design Possible & 20+ Colours Available",
+        price: "₹120",
+        rating: "4.9",
+        reviews: "89",
         url: "#"
-    },
-    {
-        imageSrc: '',
-        title: "Customise Water Bottle",
-        content: "Premium matte finish stainless steel bottle",
-        price: "₹100",
-        rating: "5.0",
-        reviews: "87",
+        },
+        {
+        imageSrc: Cusion,
+        title: "Customise Your Cusion",
+        content: "Best cusion with your love ones name!",
+        price: "₹130",
+        rating: "4.6",
+        reviews: "12",
         url: "#"
-    },
-]
+        },
+        {
+        imageSrc: Custom_wallets,
+        title: "Cajun Chicken",
+        content: "Roasted Chicken & Egg",
+        price: "₹140",
+        rating: "4.2",
+        reviews: "19",
+        url: "#"
+        },
+        {
+        imageSrc: Light_frame,
+        title: "Chillie Cake",
+        content: "Deepfried Chicken",
+        price: "₹150",
+        rating: "5.0",
+        reviews: "61",
+        url: "#"
+        },
+        {
+        imageSrc: Name_wallet,
+        title: "Guacamole Mex",
+        content: "Mexican Chilli",
+        price: "₹160",
+        rating: "4.2",
+        reviews: "95",
+        url: "#"
+        },
+        {
+        imageSrc: Wallets,
+        title: "Carnet Nachos",
+        content: "Chilli Crispy Nachos",
+        price: "₹170",
+        rating: "3.9",
+        reviews: "26",
+        url: "#"
+        },
+    ],
+    Main: [],
+    Soup: [],
+    Desserts: []
+}
